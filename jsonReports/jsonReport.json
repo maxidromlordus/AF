@@ -61,8 +61,8 @@
   },
   "suites": [
     {
-      "title": "example.spec.ts",
-      "file": "example.spec.ts",
+      "title": "AF-Requests.spec.ts",
+      "file": "AF-Requests.spec.ts",
       "column": 0,
       "line": 0,
       "specs": [
@@ -81,20 +81,26 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 9600,
+                  "duration": 6343,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-07-10T08:44:23.084Z",
-                  "attachments": []
+                  "startTime": "2024-07-11T07:45:28.247Z",
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\msamo\\OneDrive\\Документы\\Работа\\WhyHappen\\UIAutotesting\\test-results\\AF-Requests-AF-request-filters-firefox\\test-finished-1.png"
+                    }
+                  ]
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "a30a6eba6312f6b87ea5-0fca5454ea5da6945a1d",
-          "file": "example.spec.ts",
+          "id": "5258c638e5deb885967c-62b23dbd4098d70fcf72",
+          "file": "AF-Requests.spec.ts",
           "line": 61,
           "column": 5
         }
@@ -103,8 +109,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-07-10T08:44:21.782Z",
-    "duration": 14634.282,
+    "startTime": "2024-07-11T07:45:27.372Z",
+    "duration": 8523.161,
     "expected": 1,
     "skipped": 0,
     "unexpected": 0,
